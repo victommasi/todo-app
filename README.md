@@ -1,6 +1,6 @@
 # todo-app
-Todo Application 
+Todo Application made with skills learned at Caelum's course of Java Web Development 
 * Java
 * Spring
-* JPA,Hibernate, 
+* JPA/Hibernate
 * JSP
